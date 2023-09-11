@@ -1,0 +1,24 @@
+.contentStyle{
+display: flex;
+flex-direction: column;
+grid-row-gap: 25px;
+}
+
+
+.imgStyleComputer{
+    width: 10%;
+}
+
+
+.imgStyle{
+    display: flex;
+    flex-direction: row;
+    grid-column-gap: 10%;
+
+}
+
+
+img{
+    width:12%;
+}
+
